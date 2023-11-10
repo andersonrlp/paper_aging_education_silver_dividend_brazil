@@ -4,9 +4,7 @@ set dp comma
 set more off
 cls
 
-*log using "C:\Users\Anderson Rocha\Desktop\Anderson Rocha\1 UFMG\7 Estudos para publicação\2021\4_tese_sim\mods2010.log", text replace
-
-cd "C:\Users\Anderson Rocha\Desktop\Anderson Rocha\1 UFMG\7 Estudos para publicação\1_em_desenvolvimento\1art_simulation\3versao_comp\3dados"
+*cd ""
 
 use "data2010.dta", clear
 
